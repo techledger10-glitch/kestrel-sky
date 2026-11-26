@@ -1,0 +1,7 @@
+.bounty/
+.openhands/
+out/
+node_modules/
+*.log
+transcripts*.tar.gz
+kimi*
